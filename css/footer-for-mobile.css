@@ -1,0 +1,1055 @@
+@media only screen and (max-width:767px) {
+  .container{
+      padding-right: 17px;
+      padding-left: 17px;
+  }
+  .popup-box{
+      min-width: unset;
+  }
+  .popup-box h3{
+      font-size: 18px;
+  }
+  .popup-box p {
+      font-size: 14px;
+  }
+  .popup-box h4{
+      font-size: 16px;
+      margin: 7px 0px 0px;
+  }
+  .intercountry-svgmap-box svg{
+      display: none;
+
+  }
+  .service-logo-name{
+      font-size: 12px;
+  }
+  .standard_box{
+      margin-bottom: 20px;
+      min-height: unset;
+  }
+  .standard_box img {
+      height: 62px;
+      margin-bottom: 20px;
+  }
+  .standard_box p {
+      text-align: left;
+      font-size: 14px;
+  }
+  .standard-heading{
+      padding: 10px 0;
+      font-size: 25px;
+      line-height: 19px;
+  }
+  #no_modal_tab .nav-link img{
+      display: none;
+  }
+  #no_modal_tab .nav-tabs .nav-link{
+      min-width: 120px;
+      min-height: 50px;
+  }
+  .benergy-img{
+      display: none;
+  }
+  .bmobility-img{
+      display: none;
+  }
+  .binfrastructure-img{
+      display: none;
+  }
+  .business-model-color-box{
+      padding: 30px 30px 30px 30px;
+      min-height: unset;
+  }
+  .intercountry-svgmap-box{
+      padding: 10px 0 10px;
+  }
+  .fourthcanda-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .califonia-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .fourthgermany-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .fourthuk-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .netherland_box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .japan_box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .chile_box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .uk_box{
+      position: unset;
+  }
+  .secondnorway-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .secondjapan-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .secondgermany-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .seconduk-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .thirdnorway-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .thirduk-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .thirdsouthk-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .thirdcanda-box{
+      position: unset;
+      margin-bottom: 20px;
+  }
+  .country-policies-tab .nav-tabs .nav-item{
+      margin-bottom: 20px;
+  }
+  .service_model{
+      font-size: 15px;
+      line-height: 18px;
+  }
+  #no_modal_tab .nav-tabs .nav-link{
+      margin: 5px 5px;
+  }
+  .categorytabs_ul{
+      padding: 14px 20px 0px;
+  }
+  .categorytabs_ul .nav-link{
+      font-size: 14px;
+  }
+  .electric_vichle_domain_ul .nav-link{
+      font-size: 12px;
+  }
+  .sunmobility-image{
+      margin-top: 20px;
+  }
+  .categorytabs_ul .nav-item {
+      margin: 0 0px 0 0;
+  }
+  .magenta-power-services{
+      height: auto;
+  } 
+  .responsive-menu {
+      background: #ffffff;
+      color: #185589;
+      text-decoration: none;
+      text-align: right;
+      padding: 0px 15px;
+  }
+  nav{
+  
+      order: 2;
+  }
+  .ev-border-rgt{
+      border-right: none;
+  }
+  .topbar_rightsec li:nth-child(1){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(2){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(3){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(4){
+      display: none !important;
+  }
+  .topbar_rightsec li:nth-child(5){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(6){
+      display: none !important;
+  }
+  .responsive-menu:hover{
+      background: #ffffff;
+      color: #185589;
+  }
+  .banner_slide_second, .banner_slide1, .banner_slide2, .banner_slide3, .banner_slide4, .banner_slide5, .banner_slide6, .banner_slide7{
+      height: auto;
+      padding-top: 10px;
+  }
+  .sm-mt-79{
+      margin-top: 79px;
+  }
+  .banner-car-img img{
+      display: none;
+  }
+  .banner-title{
+      font-size: 25px;
+      line-height: 31px;
+      padding: 0 10px;
+  }
+  .banner_quates_txt{
+      margin-top: 10px;
+      font-size: 18px;
+      padding: 0 10px;
+  }
+  .banner-para{
+      font-size: 15px;
+      letter-spacing: 0.02em;
+      line-height: 20px;
+      padding: 0 10px 20px;
+  }
+  .banner-want_box{
+      width: 160px;
+      height: 53px;
+      font-size: 12px;
+      margin-right: 10px;
+      padding: 7px 4px;
+      margin-bottom: 8px;
+  }
+  .ourtools_head{
+      font-size: 20px;
+  }
+  .emobility-head{
+      font-size: 28px;
+      line-height: 35px;
+      margin-top: 20px;
+  }
+  .banner-want-title{
+      font-size: 18px;
+      line-height: 24px;
+      padding: 0 10px;
+  }
+  .emobility-para{
+      font-size: 15px;
+  }
+  .emobility_slide{
+      height: 240px;
+      width: 240px !important;
+  }
+  .emobility_slide h6{
+      font-size: 30px;
+  }
+  .emobility_slide p{
+      font-size: 13px;
+  }
+  .ourtools_sec_bg{
+      background-size: 100%;
+      height: auto;
+      padding: 10px 0px;
+  }
+  .imp-link-box{
+      width: 173px;
+  }
+  .ongoing-sec-bg{
+      margin-top: 15px;
+  }
+  .whatsnew_sec_head{
+      font-size: 28px;
+  line-height: 36px;
+  }
+  .whatsnew_sec_para{
+      font-size: 14px;
+      line-height: 18px;
+      padding-bottom: 20px;
+  
+  }
+  .followus_head{
+      font-size: 28px;
+      line-height: 29px;
+      margin-bottom: 15px;
+  }
+  .importantlonks_head{
+      font-size: 28px;
+      line-height: 29px; 
+  }
+  .ecpowerdSec_head{
+      font-size: 14px;
+      line-height: 18px;
+      text-align: center;
+      margin-top: 25px;
+  }
+  .twitter-topheader{
+      width: 310px;
+  }
+  .footer_bg{
+      padding: 30px 0 10px;
+  }
+  .footer-col{
+      width: 50%;
+      padding: 0 10px;
+  }
+  .border-rgt{
+      border-right: unset;
+  }
+  .footer-col-large{
+      width: 100%;
+      padding: 0 10px;
+      margin-top: 20px;
+  }
+  .benefit-ev-box{
+      position: unset;
+      width: 100%;
+      height: auto;
+      margin-bottom: 25px;
+  }
+  .benifits-title{
+      font-size: 16px;
+  line-height: 20px;
+  }
+  .pb-120 {
+      padding-bottom: 0px;
+  }
+  .innerpage-footer-interest-txt{
+      font-size: 16px !important;
+  }
+  .about-us-title{
+      font-size: 20px;
+  line-height: 28px;
+  }
+  .sm-flex-order2{
+      order: 2;
+  }
+  .sm-flex-order1{
+      order: 1;
+  }
+  .myths-hear-title{
+   padding-bottom: 10px;
+  margin-top: 20px;
+  font-size: 18px;
+  line-height: 21px;
+  }
+  .pt-50 {
+      padding-top: 20px;
+  }
+  .ev-awareness-para{
+      font-size: 13px;
+      line-height: 17px;
+  }
+  .sm-mt-30{
+      margin-top: 30px;
+  }
+  .business-inner-title{
+      margin-top: 20px;
+      font-size: 16px;
+  }
+  .inner_page_clickbtn{
+      margin-bottom: 20px;
+  }
+  .business-model-box{
+      margin-bottom: 20px;
+      min-height: auto;
+  }
+  .business-infrastructure-box{
+      margin-bottom: 20px;
+      min-height: auto;
+  }
+  .how-can-help-title:after{
+      content: unset;
+  }
+  .how-can-help-title{
+      font-size: 18px;
+  }
+  .calculator-img{
+      height: auto;
+  }
+  .how-much-title{
+      font-size: 20px;
+  }
+  .vehicle-segment{
+      font-size: 14px;
+  }
+  .select-box-custom{
+      width: 136px ;
+      background-position-x: 110px;
+      margin-bottom: 10px;
+  }
+  .battery-capacity-input{
+      width: 136px ;  
+      margin-bottom: 10px;
+  }
+  .select-box-with-kw{
+      margin-bottom: 10px;
+      font-size: 14px;
+  }
+  .How-much-will{
+      font-size: 22px;
+  }
+  .how-much-para{
+      font-size: 15px;
+  line-height: 20px;
+  }
+  .charging-time{
+      font-size: 18px;
+      line-height: 16px;
+  }
+  .charging-time-hours{
+      margin-top: 15px;
+  }
+  .calculate-total-cost-btn{
+      font-size: 18px;
+  }
+  .policy-comp-txt{
+      font-size: 14px;
+  }
+  .policy-header-box:first-child {
+      width: 100%;
+  }
+  .policy-header-box {
+      width: 100%;
+      margin-bottom: 10px;
+      justify-content: center;
+  }
+  .sticky{
+      top: 88px;
+  }
+  .faster-adoption-heading{
+    
+      font-size: 17px;
+  line-height: 20px;
+  }
+  .indian-standard-li li{
+      padding-right: 4px;
+  }
+  .blog-content-pos{
+      position: unset;
+      transform: inherit;
+  }
+  .blog-imgs{
+      position: unset;
+      height: 290px;
+  }
+  .blog-sec{
+      position: unset;
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+      padding: 15px 10px;
+  }
+  .mt-120 {
+      margin-top: 0px;
+  }
+  .blog-content-pos p {
+      font-size: 14px;
+      padding: 12px 10px 10px;
+      margin-bottom: 0px;
+      line-height: 18px;
+  }
+  .new-newslettes-box img{
+      height: auto;
+  }
+  .large-blog-box{
+      height: auto !important;
+  }
+  .new-newslettes-box{
+      margin-bottom: 20px;
+  }
+  .bank-icon-box{
+      width: 100%;
+      margin-right: 0px;
+  }
+  .faqtab-head{
+      font-size: 12px;
+      margin: 4px 3px;
+      padding: 10px 30px;
+  }
+  #faqtabs .overview-text{
+      font-size: 13px;
+  line-height: 15px;
+  }
+ 
+  .policy-tab-label{
+      /* height: 65px; */
+      background: #185589;
+  }
+  .policy-tab-label::after{
+      font-size: 19px;
+  }
+  .state-ev-main{
+      margin-bottom: 0px;
+  }
+  .joinus-box-title{
+      font-size: 14px;
+      padding: 8px 20px;
+  }
+  .frontend-table-view .table-bordered thead tr th{
+      font-size: 13px;
+      padding: 10px 9px;
+  }
+  .finance-logo{
+      margin-bottom: 10px;
+  }
+  .ev-policy-main{
+      margin-bottom: 20px;
+      flex-direction: column;
+  }
+  .ev-policy-pdf{
+      font-size: 13px;
+      line-height: 24px;
+  }
+.sm-flex-direc-column{
+  flex-direction: column;
+}
+}
+@media only screen 
+and (min-device-width :320px) 
+and (max-device-width : 325px)  { 
+  .banner-want_box{
+      width: 138px;
+      padding:7px 5px;
+  }
+  .banner-title{
+      font-size: 21px;
+      line-height: 26px;
+      margin-top: 30px;
+  }
+  .emobility-head{
+      font-size: 21px;
+  }
+  .ongoingcamp-slide img{
+      height: 190px;
+  }
+  .ourtool_slide_title{
+      font-size: 14px;
+  }
+  .ourtool_slide_para{
+      font-size: 13px;
+      line-height: 15px;
+  }
+  .whatsnew_sec_head{
+      font-size: 21px;
+  }
+  .followus_head{
+      font-size: 21px;
+  }
+  .importantlonks_head{
+      font-size: 21px;
+      line-height: 18px;
+  }
+  .ecpowerdSec_head{
+      font-size: 15px;
+      line-height: 18px;
+  }
+  .vehicle-segment {
+      font-size: 10px;
+      line-height: 15px;
+  }
+  .select-box-custom {
+      width: 118px;
+      background-position-x: 96px;
+      margin-bottom: 10px;
+      height: 36px;
+  }
+  .battery-capacity-input {
+      width: 118px;
+      margin-bottom: 10px;
+      height: 36px;
+  }
+  .select-box-with-kw{
+      height: 36px;
+      margin-bottom: 10px;
+  }
+  .twitter-topheader{
+      width: 262px;
+  }
+}
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+  .country-policies-tab .nav-tabs .nav-item{
+      margin-bottom: 20px;
+  }
+  .chile_box{
+      bottom: -1%;
+  }
+  .japan_box{
+      right: -19px;
+      bottom: 7%;
+  }
+  .netherland_box{
+      right: -4%;
+      top: 7%;
+  }
+  .uk_box{
+      left: -22px;
+      top: 10%;
+  }
+  .secondnorway-box{
+      right: -4%;
+      top: 9%;
+  }
+  .secondjapan-box{
+      right: -24px;
+      bottom: 35px;
+  }
+  .secondgermany-box{
+      left: -3%;
+      bottom: 21%;
+  }
+  .seconduk-box{
+      left: -4%;
+      top: 12%;
+  
+  }
+  .thirdnorway-box{
+      right: -4%;
+      top: 7%;
+  }
+  .thirduk-box{
+      left: -4%;
+      top: 13%;
+  }
+  .thirdsouthk-box{
+      right: -19px;
+      bottom: 59px;
+  }
+  .thirdcanda-box{
+      left: -3%;
+      bottom: 16%;
+  }
+  .fourthuk-box{
+      right: -4%;
+      top: 4%;
+  }
+  .fourthcanda-box{
+      left: -3%;
+      top: 4%;
+  }
+  .fourthgermany-box{
+      right: -4%;
+      bottom: 10%;
+  }
+  .califonia-box{
+      left: -2%;
+      bottom: 11%;
+  }
+  #no_modal_tab .nav-tabs .nav-item{
+      margin-bottom: 20px;
+  }
+ 
+  .service_model{
+      font-size: 15px;
+      line-height: 17px;
+  }
+  .categorytabs_ul .nav-link{
+      font-size: 15px;
+  }
+  .categorytabs_ul .nav-item {
+      margin: 0 0px 0 0;
+  }
+  .electric_vichle_domain_ul .nav-item {
+      margin: 0px 10px;
+  }
+  .magenta-power-services {
+      height: auto;
+  }
+  .topbar_rightsec li:nth-child(1){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(2){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(3){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(4){
+      display: none !important;
+  }
+  .topbar_rightsec li:nth-child(5){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(6){
+      display: none !important;
+  }
+  .responsive-menu {
+      background: #ffffff;
+      color: #185589;
+      text-decoration: none;
+      text-align: right;
+      padding: 0px 15px;
+  }
+  nav{
+  
+      order: 2;
+  }
+  .responsive-menu:hover{
+      background: #ffffff;
+      color: #185589;
+  }
+  .banner-title{
+      font-size: 35px;
+      line-height: 40px;
+  }
+  .mt-107 {
+      margin-top: 94px;
+  }
+  .banner-want_box{
+      margin-bottom: 15px;
+  }
+  .banner-para{
+      font-size: 18px;
+      line-height: 22px;
+  }
+  .banner_quates_txt{
+      font-size: 20px;
+  }
+  .banner-honour-txt{
+      font-size: 13px;
+  }
+  .emobility-head{
+      font-size: 30px;
+  }
+  .ourtool_slide_title{
+      font-size: 14px;
+  }
+  .ourtools_head{
+      font-size: 27px;
+  }
+  .whatsnew_sec_head{
+      font-size: 30px;
+  }
+  .whatsnew_sec_para{
+      font-size: 16px;
+  }
+  .ourtools_sec_bg{
+      height: auto;
+  }
+  .followus_head{
+      font-size: 30px;
+  }
+  .importantlonks_head{
+      font-size: 30px;
+      margin-bottom: 0px;
+  }
+  .benefit-ev-box{
+      width: 294px;
+      top: 36%;
+  }
+  .benifits-title{
+      font-size: 16px;
+      line-height: 19px;
+  }
+  .benifits-para{
+      font-size: 13px;
+  line-height: 18px;
+  }
+  .innerpage-footer-interest-txt {
+      font-size: 16px!important;
+  }
+  .md-mt-20{
+      margin-top: 20px;
+  }
+  .ev-border-rgt{
+      border-right: unset;
+  }
+  .typeofev-bhp-img {
+      width: 158px;
+      height: 122px;
+  }
+  .finance-logo{
+      margin-bottom: 10px;
+    }
+ .binfrastructure-img{
+      margin-bottom: 20px;
+}
+.business-model-box{
+  margin-bottom: 20px;
+}
+.business-infrastructure-box{
+    margin-bottom: 20px;
+}
+.ev-selectbox{
+  background-position-x: 152px; 
+  width: 176px;
+}
+.carImg{
+  width: 222px;
+  height: unset; 
+}
+.battery-capacity-input{
+    margin-bottom: 10px;
+}
+.select-box-with-kw{
+  margin-bottom: 10px;
+}
+.select-box-custom{
+  margin-bottom: 10px;
+}
+.select-policy-custom{
+    width: 139px;
+    background-position-x: 110px;
+}
+.blog-sec{
+  width: 100%;
+  margin-bottom: 107px;
+}
+.mt-120 {
+  margin-top: 20px;
+}
+.new-newslettes-box img{
+  height: 270px;
+}
+.new-newslettes-box{
+  margin-bottom: 20px;
+}
+.faqtab-head{
+  font-size: 12px;
+  margin: 0 1px;
+}
+.twitter-topheader{
+  width: 310px;
+}
+  /* invest india  start*/
+.gover-foreignSec h4 {
+  font-size: 11px;
+  }
+  .gover-foreignSec p {
+  font-size: 7px;
+  }
+  /* invest india  end*/
+
+}
+@media all and (device-width: 1024px) and (device-height: 768px) and (orientation:landscape) {
+ 
+  .twitter-topheader{
+      width: 261px;
+  }
+  .imp-link-box{
+      width: 173px;
+  }
+  .menu li a{
+      font-size: 13px;
+  }
+  .uklogosze{
+      height: 56px;
+  }
+  .innerpage-footer-interest-txt {
+      font-size: 20px!important;
+  }
+  .typeofev-bhp-img {
+      width: 158px;
+      height: 122px;
+  }
+  .finance-logo{
+      margin-bottom: 10px;
+  }
+  .ev-selectbox{
+      width: 80px;
+      background-position-x: 61px; 
+  }
+  .select-policy-custom{
+      background-position-x: 161px;
+  }
+  .blog-sec{
+      width: 435px ;
+      height: 280px;
+  }
+  .blog-imgs{
+      height: 250px;
+      width: 175px !important;
+  }
+  .blog-content-pos p{
+      font-size: 14px;
+      padding: 10px 10px 10px;
+      line-height: 18px;
+  
+  }
+  .large-blog-box {
+      height: 400px !important;
+  }
+  .new-newslettes-box{
+      min-height: 391px;
+  }
+}
+
+ @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait)  {
+  .country-policies-tab .nav-tabs .nav-item{
+      margin-bottom: 20px;
+  }
+  .menu li a{
+      font-size: 13px;
+  } 
+  .imp-link-box{
+      width: 180px;
+  } 
+  .blog-sec{
+      width: 433px;
+  }
+  .ongoingcamp-slide img{
+      height: 190px;
+  }
+  .uklogosze {
+      padding-left: 15px;
+      height: 63px;
+  }
+  .blog-imgs{
+      width: 190px !important;
+      height: 265px;
+  }
+  .blog-content-pos p{
+      padding: 0px 10px 10px;
+  }
+  .large-blog-box{
+      height: 555px !important;
+  }
+  .twitter-topheader{
+      width: 261px;
+  }
+  .typeofev-bhp-img {
+      width: 158px;
+      height: 122px;
+  }
+  .ev-selectbox{
+      width: 80px;
+      background-position-x: 61px; 
+  }
+  .select-policy-custom{
+      background-position-x: 162px;
+  }
+  .innerpage-footer-interest-txt {
+      font-size: 20px !important;
+  }
+  .new-newslettes-box{
+      min-height: 391px;
+  }
+}
+@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: landscape)  {
+
+}
+
+@media only screen 
+and (min-device-width: 375px) 
+and (max-device-width: 812px) 
+and (-webkit-min-device-pixel-ratio: 2)
+and (orientation: landscape) { 
+  #no_modal_tab .nav-tabs .nav-link{
+      margin: 5px 5px;
+  }
+  .magenta-power-services{
+      height: auto;
+  } 
+  .service_model{
+      font-size: 15px;
+      line-height: 18px;
+  }
+  .sunmobility-image{
+      margin-top: 20px;
+  }
+  .categorytabs_ul .nav-link{
+      font-size: 14px;
+  }
+  .categorytabs_ul .nav-item {
+      margin: 0 0px 0 0;
+  }
+  .electric_vichle_domain_ul .nav-link{
+      font-size: 15px;
+  }
+  .categorytabs_ul{
+      padding: 14px 20px 0px;
+  }
+  .responsive-menu {
+      background: #ffffff;
+      color: #185589;
+      text-decoration: none;
+      text-align: right;
+      padding: 0px 15px;
+  }
+  nav{
+  
+      order: 2;
+  }
+  .topbar_rightsec li:nth-child(1){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(2){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(3){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(4){
+      display: none !important;
+  }
+  .topbar_rightsec li:nth-child(5){
+      display: none;
+  }
+  .topbar_rightsec li:nth-child(6){
+      display: none !important;
+  }
+  .responsive-menu:hover{
+      background: #ffffff;
+      color: #185589;
+  }
+  .responsive-menu:hover{
+      background: #ffffff;
+      color: #185589;
+  }
+  .banner_slide_second,.banner_slide_hnPM, .banner_slide_hnrajiv, .banner_slide_hnamitv, .banner_slide1, .banner_slide2, .banner_slide3, .banner_slide4, .banner_slide5, .banner_slide6, .banner_slide7{
+      height: auto;
+      padding-top: 10px;
+  }
+  .banner-title{
+      font-size: 23px;
+      line-height: 28px;
+      padding: 0 10px;
+      margin-top: 70px;
+  }
+  .banner_quates_txt{
+      margin-top: 10px;
+      font-size: 18px;
+      padding: 0 10px;
+  }
+  .banner-para{
+      font-size: 15px;
+      letter-spacing: 0.02em;
+      line-height: 20px;
+      padding: 0 10px 20px;
+  }
+  .banner-want_box{
+      width: 139px;
+      height: 45px;
+      font-size: 11px;
+      line-height: 12px;
+      margin-right: 11px;
+      padding: 7px 3px;
+      margin-bottom: 8px;
+  }
+  .ongoingcamp-slide img{
+      height: 165px;
+  }
+  /* .twitter-topheader{
+      width: 460px;
+  } */
+  .ev-border-rgt{border-right: unset;} .ev-border-lft{border-left: unset;}
+  .followus_slide_title{
+      font-size: 14px;
+      line-height: 16px;
+      padding-left: 0px;
+      margin-right: 10px;
+  }
+  .followus-twitter-title{
+  font-size: 11px;
+  line-height: 15px;
+  padding-left: 0px;
+  margin-right: 10px;
+  }
+  .twitter-topheader{
+      width: unset;
+  }
+}
+

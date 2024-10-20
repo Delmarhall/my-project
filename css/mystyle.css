@@ -1,0 +1,140 @@
+
+/*Css for Registration page */
+main h3 {
+  text-align: center;
+  color: #35589c;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.reg-container {
+  border: 1px solid #35589c;
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+}
+
+.icon-style{
+  border: 1px solid lightgrey;
+  background-color: lightgrey;
+  padding: 5px;
+  font-size: 15.5px !important;
+  font-weight: bold !important;
+}
+
+.input-reg {
+  border: 1px solid lightgrey;
+  padding: 5px 3px 1px 3px;
+  width: 50%;
+}
+
+.grid-container-reg1 {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 20px;
+  padding: 0px;
+  width: 50%;
+  margin: auto;
+}
+
+.grid-container-reg1 > div {
+  text-align: center;
+  font-size: 14px;
+}
+
+.rate1 {
+  background-color: #35589c !important;
+  font-size: 20px !important;
+}
+
+.rate1 span {
+  font-weight:bold; 
+  color:white;
+  font-size:25px;
+}
+
+.rate2 {
+  background-color: #2196F3;
+  color: white;
+}
+
+.grid-reg-down {
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+  width: 55%;
+  margin: auto;
+}
+
+.grid-reg-down > div {
+  text-align: center;
+  font-size: 14px;
+}
+
+.butt {
+  border: none;
+  background-color: #35589c;
+  color: white;
+  font-size: 18px;
+  border-radius: 0px;
+}
+
+.butt:hover {background-color: rgb(12, 187, 85);}
+
+input:hover, input:focus, select:hover, select:focus {
+  outline: none;
+  border: 1px solid #35589c;
+}
+
+/*CSS for smaller screen or Mobile devices*/
+@media screen and (max-width: 1000px) {
+  .hidden {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  .show {
+    display: none;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+
+  /*Mobile screen CSS for registration/login pages starts here*/
+  .reg-container {
+    margin: 5px;
+    width: 100%;
+    padding: 0px !important;
+  }
+
+  .input-reg {
+    width: 80%;
+  }
+
+  .grid-container-reg1 {
+    gap: 20px;
+    padding: 0px;
+    width: 85%;
+  }
+
+  .rate1 {
+    font-size: 16px !important;
+  }
+
+  .rate1 span {
+    font-size:20px;
+  }
+
+  .grid-reg-down {
+    width: 87%;
+  }
+
+  .butt {
+    font-size: 14px;
+  }
+
+  /*Mobile screen CSS for registration/login pages ends here*/
+
+}

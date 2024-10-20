@@ -1,0 +1,84 @@
+
+  /*CSS for grid container used in contact page*/
+.grid-container {
+  display: grid;
+  box-shadow: 4px 4px 30px lightblue;
+  grid-template-columns: auto auto;
+  padding: 10px;
+  margin: auto;
+  width: 80%;
+}
+.grid-item {
+  border:10px solid white;
+  background-color: white;
+  padding: 5px;
+  font-size: 18px;
+  text-align: left;
+}
+.text-link-hover:hover {
+  font-size: 17px;
+}
+.img-ev-dashboard {
+  width: 90%;
+  border-radius: 15px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+  input{
+  width: 60%;
+  float: right;
+}
+input, label, .receipt-text {
+  color: #185589;
+}
+.receipt-table-border {
+  background: #C9E4EB;
+}
+.calculate-button{
+  background: #185589;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+.receipt-print{
+  color:green; 
+  border-radius:5px; 
+  border: 1px solid green; 
+  float:right; 
+  padding:2px;
+  font-weight: bold;
+}
+.receipt-print:hover{
+  border: 2px solid green;
+}
+
+
+@media screen and (max-width: 900px) {
+  .grid-container {
+  display: grid;
+  grid-template-columns: auto;
+  width: 100%;
+}
+.grid-item {
+  padding: 10px;
+  font-size: 14px;
+  text-align: left;
+}
+.order1{order:1;}
+.order2{order:2;}
+.header{font-size:18px;}
+h1 {font-size:22px;}
+input{width: 50%;}
+
+.img-ev-dashboard {
+  width: 100%;
+  border-radius: 15px;
+}
+.receipt-print{
+  border-radius:5px;
+  font-size: 12px;
+}
+}
